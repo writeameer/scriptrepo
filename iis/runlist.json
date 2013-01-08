@@ -4,5 +4,16 @@
         "FilePath": "iis.ps1",
         "Description": "This installs IIS",
         "Enabled": true
+    },
+        {
+        "FilePath": "first.ps1",
+        "Description": "This installs IIS",
+        "Enabled": true
+    }
+    ,    
+    {
+        "FilePath": "second.ps1",
+        "Description": "This installs IIS",
+        "Enabled": true
     }
 ]
