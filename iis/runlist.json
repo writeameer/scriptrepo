@@ -1,0 +1,8 @@
+[
+
+    {
+        "FilePath": "iis.ps1",
+        "Description": "This installs IIS",
+        "Enabled": true
+    }
+]

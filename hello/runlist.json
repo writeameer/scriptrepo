@@ -1,0 +1,7 @@
+[
+    {
+        "FilePath": "hello.ps1",
+        "Description": "This prints our hello",
+        "Enabled": true
+    }
+]
