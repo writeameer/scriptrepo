@@ -1,7 +1,7 @@
 [
     {
 
-        "FilePath": "sql.ps1",
+        "Name": "sql.ps1",
         "Description": "This installs SQL Server",
         "Enabled": true
     }

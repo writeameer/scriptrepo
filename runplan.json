@@ -1,0 +1,13 @@
+[
+
+    {
+        "Scriptset":"iis"
+    },
+    {
+        "Scriptset": "first.ps1"
+    }
+    ,    
+    {
+        "Scriptset": "second.ps1"
+    }
+]

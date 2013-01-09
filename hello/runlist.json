@@ -1,6 +1,6 @@
 [
     {
-        "FilePath": "hello.ps1",
+        "Name": "hello.ps1",
         "Description": "This prints our hello",
         "Enabled": true
     }
