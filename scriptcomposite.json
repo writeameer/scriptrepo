@@ -1,0 +1,15 @@
+{
+    "Name": "Installs Monitoring Tools",
+    "ScriptSets": [
+        {
+            "Name": "Install IIS",
+            "Description": "This scriptset installs IIS using server managercmd ",
+            "Url": "https://raw.github.com/writeameer/scriptrepo/8361552976059e20d2c7492af871ff49b0fc0feb/iis"
+        },
+        {
+            "Name": "Install SQL",
+            "Description": "This scriptset installs SQL and related tools",
+            "Url": "https://raw.github.com/writeameer/scriptrepo/8361552976059e20d2c7492af871ff49b0fc0feb/sql"
+        }
+    ]
+}
